@@ -13,11 +13,13 @@
     "prettier": "prettier --write \"**/*\""
   },
   "dependencies": {
+    "@babel/traverse": "^7.6.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
   "devDependencies": {
     "@babel/core": "^7.4.3",
+    "@babel/parser": "^7.6.2",
     "@babel/plugin-proposal-class-properties": "^7.4.0",
     "@babel/plugin-proposal-object-rest-spread": "^7.4.3",
     "@babel/preset-env": "^7.4.3",
