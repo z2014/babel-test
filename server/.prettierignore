@@ -1,0 +1,4 @@
+.prettierignore
+yarn.lock
+.DS_Store
+startup.sh

@@ -1,0 +1,17 @@
+dist
+.idea
+.vscode
+.npmrc
+.gitignore
+.prettierignore
+yarn.lock
+*.eot
+*.svg
+*.ttf
+*.woff
+*.woff2
+*.png
+*.jpg
+*.jpeg
+*.gif
+.DS_Store

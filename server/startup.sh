@@ -1,0 +1,1 @@
+node ../../TSW/index.js config=./src/config/index.js
