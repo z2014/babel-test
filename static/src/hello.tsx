@@ -1,7 +1,5 @@
 import React, { Component } from "react";
-import "./hello.scss";
-import logo from './webo-logo.png';
-
+import Test from './test/test';
 class Hello extends Component {
 
   private support: string[] = [
@@ -30,8 +28,8 @@ class Hello extends Component {
             textAlign: 'center',
             width: 200,
           }}
-          src={logo}
         />
+        <Test />
         <h1 className="title">Hello webo cli.</h1>
         <p>
           {
